@@ -68,7 +68,7 @@ namespace CityInfo.API
 
         #region Properties
 
-        public static CitiesDataStore Current { get; } = new CitiesDataStore();
+        //public static CitiesDataStore Current { get; } = new CitiesDataStore();
         public List<CityDto> Cities { get; set; }
 
         #endregion Properties
