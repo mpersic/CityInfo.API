@@ -1,5 +1,8 @@
 ﻿namespace CityInfo.API.Models
 {
+    /// <summary>
+    /// A DTO for a city without points of interest
+    /// </summary>
     public class CityWithoutPointsOfInterestDto
     {
         #region Properties
